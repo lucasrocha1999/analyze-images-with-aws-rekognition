@@ -20,8 +20,6 @@ This project was developed with the following technologies:
 
 ### ⚙ How to run this project
 
-<b>💡 Tanto o Frontend quanto o Mobile precisam que o Backend esteja sendo executado para funcionar.</b>
-
 ### Prerequisites
 
 Before you start, you will need to have the following tools installed on your machine:
